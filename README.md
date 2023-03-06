@@ -20,5 +20,3 @@
     <img src="https://img.shields.io/badge/-tesslogun@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white" alt="tesslogun@gmail.com"/>
   </a>
 </div>
-
-[![Gmail Badge](https://img.shields.io/badge/-tesslogun@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tesslogun@gmail.com)](mailto:tesslogun@gmail.com)
