@@ -16,5 +16,5 @@
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  [![Gmail Badge](https://img.shields.io/badge/-tesslogun@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tesslogun@gmail.com)](mailto:vbrn.mv@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/-tesslogun@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tesslogun@gmail.com)](mailto:tesslogun@gmail.com)
 </div>
