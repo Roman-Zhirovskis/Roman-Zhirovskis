@@ -33,8 +33,10 @@
 ### :man_technologist: About Me :
 
 - 🛠 I'm backend developer
-- :dragon: lives without fear and codes without fear (on python 🐍)
-- 📖 Learning React
-- 🇷🇺 Originally from Russia 🇬🇪 Currently in Georgia
-- 👀 Interested in Cinematography
-- ⛰ Hiking mountains
+- :dragon: live without fear and code without fear (on python 🐍)
+- :mortar_board: I am educated as a Design Engineer and Technologist 
+- 👀 I like to learn new technologies, independently
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
