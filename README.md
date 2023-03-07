@@ -7,7 +7,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+<!--   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
@@ -15,7 +15,7 @@
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  </a> -->
   <a href="mailto:tesslogun@gmail.com">
     <img src="https://img.shields.io/badge/-tesslogun@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white" alt="tesslogun@gmail.com"/>
   </a>
