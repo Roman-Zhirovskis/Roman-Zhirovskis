@@ -21,7 +21,11 @@
   </a>
 </div>
 
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
 <div align="center">
-  Привет, меня зовут Роман!
   <img src="https://media0.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif?cid=ecf05e47yj6egwcen2qnscoxrlgmfv0czzdi65ywyzo6gmhk&rid=giphy.gif&ct=g" width="600" height="300"/>
 </div>
