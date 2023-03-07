@@ -31,3 +31,10 @@
 </div>
 
 ### :man_technologist: About Me :
+
+- 🛠 I'm backend developer
+- :dragon: lives without fear and codes without fear (on python 🐍)
+- 📖 Learning React
+- 🇷🇺 Originally from Russia 🇬🇪 Currently in Georgia
+- 👀 Interested in Cinematography
+- ⛰ Hiking mountains
