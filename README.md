@@ -23,6 +23,3 @@
   <a href="https://t.me/katafalkin">
     <img src="https://img.shields.io/badge/-tesslogun-blue?style=social&logo=telegram&link=https://t.me/katafalkin" alt="katafalkin"/>
   </a>
-  
-  [![Telegram Badge](https://img.shields.io/badge/-tesslogun-blue?style=social&logo=telegram&link=https://t.me/katafalkin)](https://t.me/katafalkin) <p align='left'>
-</div>
