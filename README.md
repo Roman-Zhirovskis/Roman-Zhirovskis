@@ -13,11 +13,11 @@
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  [![Telegram Badge](https://img.shields.io/badge/-mishaviborniy-blue?style=social&logo=telegram&link=https://t.me/mishaviborniy)](https://t.me/mishaviborniy) <p align='left'>ыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыы
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="mailto:tesslogun@gmail.com">
     <img src="https://img.shields.io/badge/-tesslogun@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white" alt="tesslogun@gmail.com"/>
   </a>
+  [![Telegram Badge](https://img.shields.io/badge/-tesslogun-blue?style=social&logo=telegram&link=https://t.me/katafalkin)](https://t.me/katafalkin) <p align='left'>
 </div>
