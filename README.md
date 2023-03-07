@@ -30,4 +30,4 @@
   <img src="https://media0.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif?cid=ecf05e47yj6egwcen2qnscoxrlgmfv0czzdi65ywyzo6gmhk&rid=giphy.gif&ct=g" width="600" height="300"/>
 </div>
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
