@@ -19,7 +19,7 @@
   <a href="mailto:tesslogun@gmail.com">
     <img src="https://img.shields.io/badge/-tesslogun@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white" alt="tesslogun@gmail.com"/>
   </a>
-  
   <a href="https://t.me/katafalkin">
     <img src="https://img.shields.io/badge/-blue?style=social&logo=telegram&link=https://t.me/katafalkin" alt="katafalkin"/>
   </a>
+</div>
