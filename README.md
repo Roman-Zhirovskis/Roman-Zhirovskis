@@ -21,5 +21,5 @@
   </a>
   
   <a href="https://t.me/katafalkin">
-    <img src="https://img.shields.io/badge/-tesslogun-blue?style=social&logo=telegram&link=https://t.me/katafalkin" alt="katafalkin"/>
+    <img src="https://img.shields.io/badge/-blue?style=social&logo=telegram&link=https://t.me/katafalkin" alt="katafalkin"/>
   </a>
