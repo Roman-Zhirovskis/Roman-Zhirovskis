@@ -1,6 +1,3 @@
-# Привет, меня зовут Роман!
-
-
 <div id="header" align="center">
   <img src="https://media3.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif?cid=ecf05e47fkc4nzaavrupe3l8px9u1ta2umorvoupk0vgqk5u&rid=giphy.gif&ct=g"
        width="250"/>
@@ -25,6 +22,6 @@
 </div>
 
 <div align="center">
+  Привет, меня зовут Роман!
   <img src="https://media0.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif?cid=ecf05e47yj6egwcen2qnscoxrlgmfv0czzdi65ywyzo6gmhk&rid=giphy.gif&ct=g" width="600" height="300"/>
 </div>
-
