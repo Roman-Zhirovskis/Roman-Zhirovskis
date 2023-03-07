@@ -34,7 +34,7 @@
 
 - 🛠 I'm backend developer
 - :dragon: live without fear and code without fear (on python 🐍)
-- :mortar_board: I am educated as a Design Engineer and Technologist 
+- :mortar_board: have a bachelor's degree as a Design Engineer and Technologist
 - 👀 I like to learn new technologies, independently
 
 ---
