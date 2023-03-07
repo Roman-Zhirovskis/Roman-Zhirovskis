@@ -23,3 +23,8 @@
     <img src="https://img.shields.io/badge/-blue?style=social&logo=telegram&link=https://t.me/katafalkin" alt="katafalkin"/>
   </a>
 </div>
+
+<div align="center">
+  <img src="https://media0.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif?cid=ecf05e47yj6egwcen2qnscoxrlgmfv0czzdi65ywyzo6gmhk&rid=giphy.gif&ct=g" width="600" height="300"/>
+</div>
+
