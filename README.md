@@ -42,6 +42,7 @@
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Ubuntu" alt="Ubuntu" width="50" height="50"/>&nbsp;
@@ -54,3 +55,8 @@
   <img src="https://w7.pngwing.com/pngs/260/676/png-transparent-rabbitmq-hd-logo-thumbnail.png" title="RabbitMq" alt="RabbitMq" width="50" height="50"/>&nbsp;
   
 </div>
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Roman-Zhirovskis&theme=dark&background=000000)](https://git.io/streak-stats)
