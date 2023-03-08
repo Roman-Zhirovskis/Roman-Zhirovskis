@@ -37,7 +37,13 @@
 - :dragon: live without fear and code without fear (on python 🐍)
 - :mortar_board: have a bachelor's degree as a Design Engineer and Technologist
 - 👀 I like to learn new technologies, independently
+- :computer: would like to learn frontend technology
 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  
+  
+</div>
