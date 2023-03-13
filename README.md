@@ -34,7 +34,7 @@
 ### :man_technologist: About Me :
 
 - 🛠 I'm backend developer
-- :dragon: live without fear and code without fear (on python 🐍)
+- :dragon: i learn without fear and code without fear (on python 🐍)
 - :mortar_board: have a bachelor's degree as a Design Engineer and Technologist
 - 👀 I like to learn new technologies, independently
 - :computer: would like to learn frontend technology
