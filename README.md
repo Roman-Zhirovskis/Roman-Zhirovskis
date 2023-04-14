@@ -37,7 +37,7 @@
 - :dragon: i learn without fear and code without fear (on python 🐍)
 - :mortar_board: have a bachelor's degree as a Design Engineer and Technologist
 - 👀 I like to learn new technologies, independently
-- :computer: would like to learn frontend technology
+<!-- - :computer: would like to learn frontend technology -->
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
